@@ -1,0 +1,16 @@
+.image-stats{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    
+}
+
+.stats{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;    
+}
+
+.stats p{
+    margin-bottom: 0px;
+}
